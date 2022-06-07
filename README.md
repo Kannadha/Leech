@@ -155,7 +155,7 @@
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
 
-## [Deploy To Heroku](https://heroku.com/deploy/)
+## [Deploy To Heroku](https://heroku.com/deploy? template=https://github.com/Kannadha/Leech)
 
 If Deploy Button is not working watch the Tutorial Videos.
 
